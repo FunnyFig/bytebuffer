@@ -49,7 +49,6 @@ class ByteBuffer {
 	// eat up all the bytes
 	function reset()
 	{
-		$this->buf_be = false;
 		$this->buf = '';
 		$this->p = $this->g = 0;
 	}

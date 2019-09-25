@@ -1,7 +1,7 @@
 {
     "name": "funnyfig/bytebuffer",
     "description": "bytebuffer mainly based on google/flatbuffers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "keywords": ["bytes", "buffer"],
     "license": "MIT",
